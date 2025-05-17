@@ -13,13 +13,26 @@
         "5e2f7e",
         "b65360"
       ]
+    },
+    {
+      "name": "@J4YR_DJ Edits",
+      "children": [],
+      "id": "c7f9d3",
+      "type": "crate",
+      "trackCount": 4,
+      "trackIds": [
+        "ab11cd",
+        "ef22gh",
+        "ij33kl",
+        "mn44op"
+      ]
     }
   ],
   "tracks": [
     {
       "id": "f7da26",
       "file": "Afro B ft Niniola _ Busiswa - Shisha (HH Clean Intro) copy.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks//Pink%20Lemonade%20X%20Rich%20Baby%20Daddy.mp3",
+      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Cee%20B%20Edits/Pink%20Lemonade%20X%20Rich%20Baby%20Daddy.mp3",
       "title": "Pink Lemonade X Rich Baby Daddy",
       "artist": "DJ Cee B Edit",
       "bpm": 72,
@@ -33,7 +46,7 @@
     {
       "id": "5e2f7e",
       "file": "Afro B ft T-Pain - Condo (HH Clean Intro) copy.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks//Shen%20Yeng%20Anthem%20X%20Turn%20Me%20On.mp3",
+      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Cee%20B%20Edits/Shen%20Yeng%20Anthem%20X%20Turn%20Me%20On.mp3",
       "title": "Shen Yeng Anthem X Turn Me On",
       "artist": "DJ Cee B Edit",
       "bpm": 109,
@@ -47,7 +60,7 @@
     {
       "id": "b65360",
       "file": "Afro B ft Team Salut - Shaku Shaku (HH Clean Intro).mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks//So%20Mi%20Like%20It%20X%20Favourite%20Girl.mp3",
+      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Cee%20B%20Edits/So%20Mi%20Like%20It%20X%20Favourite%20Girl.mp3",
       "title": "So Mi Like It X Favourite Girl",
       "artist": "DJ Cee B Edit",
       "bpm": 102,
@@ -57,11 +70,67 @@
       "key": "8A",
       "playcount": 0,
       "size": 8818055
+    },
+    {
+      "id": "ab11cd",
+      "file": "Vybz Kartel - Fever (Clean).mp3",
+      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/JayR%20Edits/Deep%20in%20Your%20Ocean.mp3",
+      "title": "Deep In Your Ocean",
+      "artist": "DJ J4YR Edit",
+      "bpm": 132,
+      "year": 2016,
+      "genre": ["Dancehall"],
+      "bitrate": 320,
+      "key": "6A",
+      "playcount": 0,
+      "size": 7854321
+    },
+    {
+      "id": "ef22gh",
+      "file": "Spice - So Mi Like It (Clean).mp3",
+      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/JayR%20Edits/One%20Time.mp3",
+      "title": "One Time",
+      "artist": "DJ J4YR Edit",
+      "bpm": 125,
+      "year": 2014,
+      "genre": ["Dancehall"],
+      "bitrate": 320,
+      "key": "7A",
+      "playcount": 0,
+      "size": 7345012
+    },
+    {
+      "id": "ij33kl",
+      "file": "Popcaan - Only Man She Want (Clean).mp3",
+      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/JayR%20Edits/Step%20by%20Step.mp3",
+      "title": "Step By Step",
+      "artist": "DJ J4YR Edit",
+      "bpm": 135,
+      "year": 2011,
+      "genre": ["Dancehall"],
+      "bitrate": 320,
+      "key": "8A",
+      "playcount": 0,
+      "size": 7428300
+    },
+    {
+      "id": "mn44op",
+      "file": "Aidonia - Yeah Yeah (Clean).mp3",
+      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/JayR%20Edits/Take%20My%20Breath.mp3",
+      "title": "Take My Breathe",
+      "artist": "DJ J4YR Edit",
+      "bpm": 132,
+      "year": 2017,
+      "genre": ["Dancehall"],
+      "bitrate": 320,
+      "key": "6A",
+      "playcount": 0,
+      "size": 7550001
     }
   ],
   "summary": {
-    "totalTracks": 3,
-    "librarySizeGB": 0.03,
+    "totalTracks": 7,
+    "librarySizeGB": 0.06,
     "missing": {
       "artist": 0,
       "title": 0,
@@ -69,12 +138,12 @@
       "year": 0
     },
     "lowBitrateTracks": 0,
-    "tracksNeverPlayed": 3,
-    "smallCrates": 1,
+    "tracksNeverPlayed": 7,
+    "smallCrates": 2,
     "emptyCrates": 0,
     "smartCrates": 0,
-    "regularCrates": 1,
-    "uniqueGenres": 1,
+    "regularCrates": 2,
+    "uniqueGenres": 2,
     "duplicateTrackNames": 1
   }
 }
