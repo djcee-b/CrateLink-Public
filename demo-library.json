@@ -3,7 +3,7 @@
   "baseUrl": "http://192.168.0.164:3000",
   "crates": [
     {
-      "name": "Demo Crate 1",
+      "name": "@DJCEE_B Edits",
       "children": [],
       "id": "2b1bc6",
       "type": "crate",
@@ -13,45 +13,18 @@
         "5e2f7e",
         "b65360"
       ]
-    },
-    {
-      "name": "Demo Crate 2",
-      "children": [],
-      "id": "353f1a",
-      "type": "crate",
-      "trackCount": 3,
-      "trackIds": [
-        "2a0be4",
-        "d3acdf",
-        "254a8c"
-      ]
-    },
-    {
-      "name": "Demo Crate 3",
-      "children": [],
-      "id": "f40b5a",
-      "type": "crate",
-      "trackCount": 4,
-      "trackIds": [
-        "ac94d1",
-        "099011",
-        "d914d1",
-        "76244b"
-      ]
     }
   ],
   "tracks": [
     {
       "id": "f7da26",
       "file": "Afro B ft Niniola _ Busiswa - Shisha (HH Clean Intro) copy.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks//Drake%20&%2021%20Savage%20-%20Rich%20Flex%20Part.2%20(HH%20Dirty%20Intro).mp3",
-      "title": "Shape of You",
-      "artist": "Ed Sheeran",
-      "bpm": 114,
+      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks//Pink%20Lemonade%20X%20Rich%20Baby%20Daddy.mp3",
+      "title": "Pink Lemonade X Rich Baby Daddy",
+      "artist": "DJ Cee B Edit",
+      "bpm": 72,
       "year": 2021,
-      "genre": [
-        "Afrobeats"
-      ],
+      "genre": ["DJ Edit"],
       "bitrate": 320,
       "key": "1A",
       "playcount": 0,
@@ -60,14 +33,12 @@
     {
       "id": "5e2f7e",
       "file": "Afro B ft T-Pain - Condo (HH Clean Intro) copy.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks//Drake%20&%2021%20Savage%20-%20Rich%20Flex%20Part.2%20(HH%20Dirty%20Intro).mp3",
-      "title": "Shape of You",
-      "artist": "Ed Sheeran",
-      "bpm": 107,
+      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks//Shen%20Yeng%20Anthem%20X%20Turn%20Me%20On.mp3",
+      "title": "Shen Yeng Anthem X Turn Me On",
+      "artist": "DJ Cee B Edit",
+      "bpm": 109,
       "year": 2019,
-      "genre": [
-        "Afrobeats"
-      ],
+      "genre": ["DJ Edit"],
       "bitrate": 320,
       "key": "9A",
       "playcount": 0,
@@ -76,135 +47,21 @@
     {
       "id": "b65360",
       "file": "Afro B ft Team Salut - Shaku Shaku (HH Clean Intro).mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks//Drake%20&%2021%20Savage%20-%20Rich%20Flex%20Part.2%20(HH%20Dirty%20Intro).mp3",
-      "title": "Shape of You",
-      "artist": "Ed Sheeran",
-      "bpm": 115,
+      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks//So%20Mi%20Like%20It%20X%20Favourite%20Girl.mp3",
+      "title": "So Mi Like It X Favourite Girl",
+      "artist": "DJ Cee B Edit",
+      "bpm": 102,
       "year": 2019,
-      "genre": [
-        "Afrobeats"
-      ],
+      "genre": ["DJ Edit"],
       "bitrate": 320,
       "key": "8A",
       "playcount": 0,
       "size": 8818055
-    },
-    {
-      "id": "d3acdf",
-      "file": "Afro B, Busy Signal - Go Dance (HH Clean Intro).mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks//Drake%20&%2021%20Savage%20-%20Rich%20Flex%20Part.2%20(HH%20Dirty%20Intro).mp3",
-      "title": "Gangnam Style",
-      "artist": "PSY",
-      "bpm": 108,
-      "year": 2019,
-      "genre": [
-        "Afrobeats"
-      ],
-      "bitrate": 320,
-      "key": "8A",
-      "playcount": 0,
-      "size": 9027755
-    },
-    {
-      "id": "2a0be4",
-      "file": "Afro B, Vybz Kartel, Dre Skull - Shape Nice (Clean).mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks//Drake%20&%2021%20Savage%20-%20Rich%20Flex%20Part.2%20(HH%20Dirty%20Intro).mp3",
-      "title": "Gangnam Style",
-      "artist": "PSY",
-      "bpm": 103,
-      "year": 2019,
-      "genre": [
-        "Afrobeats"
-      ],
-      "bitrate": 320,
-      "key": "6A",
-      "playcount": 0,
-      "size": 7725093
-    },
-    {
-      "id": "254a8c",
-      "file": "Afro Nation ft Slim Kofi, Ice Prince, Vanessa Mdee, KiDi - Wata Bam Bam (HH Dirty Intro) copy.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks//Drake%20&%2021%20Savage%20-%20Rich%20Flex%20Part.2%20(HH%20Dirty%20Intro).mp33",
-      "title": "Gangnam Style",
-      "artist": "PSY",
-      "bpm": 96,
-      "year": 2019,
-      "genre": [
-        "Afrobeats"
-      ],
-      "bitrate": 320,
-      "key": "11A",
-      "playcount": 0,
-      "size": 8536955
-    },
-    {
-      "id": "ac94d1",
-      "file": "Ajebo Hustlers ft Omah Lay - Pronto (HH Dirty Intro).mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks//Drake%20&%2021%20Savage%20-%20Rich%20Flex%20Part.2%20(HH%20Dirty%20Intro).mp3",
-      "title": "Gangnam Style",
-      "artist": "PSY",
-      "bpm": 103,
-      "year": 2021,
-      "genre": [
-        "Afrobeats"
-      ],
-      "bitrate": 320,
-      "key": "8A",
-      "playcount": 0,
-      "size": 6482089
-    },
-    {
-      "id": "099011",
-      "file": "Ajebutter22 - Ghana Bounce (HH Dirty Intro).mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks//Drake%20&%2021%20Savage%20-%20Rich%20Flex%20Part.2%20(HH%20Dirty%20Intro).mp3",
-      "title": "Gangnam Style",
-      "artist": "PSY",
-      "bpm": 94,
-      "year": 2017,
-      "genre": [
-        "Afrobeats"
-      ],
-      "bitrate": 320,
-      "key": "5A",
-      "playcount": 0,
-      "size": 10318461
-    },
-    {
-      "id": "76244b",
-      "file": "Asake - Organise (HH Clean Intro).mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks//Drake%20&%2021%20Savage%20-%20Rich%20Flex%20Part.2%20(HH%20Dirty%20Intro).mp3",
-      "title": "Gangnam Style",
-      "artist": "PSY",
-      "bpm": 113,
-      "year": 2023,
-      "genre": [
-        "Afrobeats"
-      ],
-      "bitrate": 320,
-      "key": "8A",
-      "playcount": 0,
-      "size": 5573697
-    },
-    {
-      "id": "d914d1",
-      "file": "Asake - Sungba (HH Clean Intro).mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks//Drake%20&%2021%20Savage%20-%20Rich%20Flex%20Part.2%20(HH%20Dirty%20Intro).mp3",
-      "title": "Gangnam Style",
-      "artist": "PSY",
-      "bpm": 112,
-      "year": 2023,
-      "genre": [
-        "Afrobeats"
-      ],
-      "bitrate": 320,
-      "key": "8A",
-      "playcount": 0,
-      "size": 8278824
     }
   ],
   "summary": {
-    "totalTracks": 10,
-    "librarySizeGB": 0.08,
+    "totalTracks": 3,
+    "librarySizeGB": 0.03,
     "missing": {
       "artist": 0,
       "title": 0,
@@ -212,12 +69,12 @@
       "year": 0
     },
     "lowBitrateTracks": 0,
-    "tracksNeverPlayed": 10,
-    "smallCrates": 3,
+    "tracksNeverPlayed": 3,
+    "smallCrates": 1,
     "emptyCrates": 0,
     "smartCrates": 0,
-    "regularCrates": 3,
+    "regularCrates": 1,
     "uniqueGenres": 1,
-    "duplicateTrackNames": 2
+    "duplicateTrackNames": 1
   }
 }
