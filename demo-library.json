@@ -26,7 +26,21 @@
         "ij33kl",
         "mn44op"
       ]
+    },
+    {
+      "name": "@DJMISTER_S Edits",
+      "children": [],
+      "id": "d9e8f2",
+      "type": "crate",
+      "trackCount": 4,
+      "trackIds": [
+        "zx12qr",
+        "st34uv",
+        "wx56yz",
+        "lm78no"
+      ]
     }
+
   ],
   "tracks": [
     {
@@ -126,7 +140,63 @@
       "key": "6A",
       "playcount": 0,
       "size": 7550001
-    }
+    },
+    {
+    "id": "zx12qr",
+    "file": "Burna Boy - Ye (Clean Edit).mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Mister%20S%20Edits/DJ%20Mister%20S%20-%20Nah%20Let%20Stress%20Go%20(DJ%20Mister%20S%20blend).mp3",
+    "title": "Nah Let Stress Go",
+    "artist": "DJ Mister S Edit",
+    "bpm": 107,
+    "year": 2018,
+    "genre": ["Afrobeats"],
+    "bitrate": 320,
+    "key": "10A",
+    "playcount": 0,
+    "size": 8123400
+  },
+  {
+    "id": "st34uv",
+    "file": "Tems - Free Mind (Intro Clean).mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Mister%20S%20Edits/DJ%20Miste%20S%20-%20Who%20Dem%20x%20Talking%20The%20Hardest%20(DJ%20Mister%20S%20blend).mp3",
+    "title": "Who Dem x Talking The Hardest ",
+    "artist": "DJ Mister S Edit",
+    "bpm": 73,
+    "year": 2020,
+    "genre": ["Afrobeats"],
+    "bitrate": 320,
+    "key": "9B",
+    "playcount": 0,
+    "size": 7991233
+  },
+  {
+    "id": "wx56yz",
+    "file": "Wizkid - Essence ft Tems (Clean Edit).mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Mister%20S%20Edits/Mister%20S%20-%20Gal%20Policy%20w-%20Esentrik%20(DJ%20Mister%20S%20blend).mp3",
+    "title": "Gal Policy w/ Esentrik ",
+    "artist": "DJ Mister S Edit",
+    "bpm": 100,
+    "year": 2021,
+    "genre": ["Afrobeats"],
+    "bitrate": 320,
+    "key": "11A",
+    "playcount": 0,
+    "size": 8452341
+  },
+  {
+    "id": "lm78no",
+    "file": "Omah Lay - Understand (Intro Clean).mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Mister%20S%20Edits/Mister%20S%20-%20Rock%20Wid%20Jeje%20(MJ%20INTRO)%20-%20Mister%20S%20&%20FRANCO.mp3",
+    "title": "Rock Wid Jeje (MJ INTRO)",
+    "artist": "DJ Mister S Edit",
+    "bpm": 112,
+    "year": 2021,
+    "genre": ["Afrobeats"],
+    "bitrate": 320,
+    "key": "8B",
+    "playcount": 0,
+    "size": 7888000
+  }
   ],
   "summary": {
     "totalTracks": 7,
