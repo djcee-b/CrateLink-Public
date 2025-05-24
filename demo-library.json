@@ -313,7 +313,7 @@
     "id": "audio03",
     "file": "DJ Audio 1 - Track 3.mp3",
     "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Audio1%20%20Edits/Kendrick%20Lamar%20x%20DJ%20DUBL-Not%20Like%20Us(Audio1%20VIP%20Edit)(Dirty).mp3",
-    "title": "Not Like Us (Audio1 VIP Edit) (",
+    "title": "Not Like Us (Audio1 VIP Edit)",
     "artist": "DJ Audio 1 Edit",
     "bpm": 101
   },
@@ -368,7 +368,7 @@
   {
     "id": "flex04",
     "file": "DJ Flex - Track 4.mp3",
-    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Flex%20Edits/SZA%20-%20Snooze%20(DJ%20FLEX%20EDIT).wav",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Flex%20Edits/Beyonce%20x%20Alicia%20Keys%20-%20Un-thinkable%20Halo.wav",
     "title": "Un-thinkable Halo",
     "artist": "DJ Flex Edit",
     "bpm": 86
