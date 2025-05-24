@@ -230,189 +230,189 @@
     "size": 7888000
   },
   {
-      "id": "indy01",
-      "file": "DJ Indy - Track 1.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Indy%20Edits/Rhianna%20-%20Kiss%20it%20better%20X%20So%20Sick%20(%20DJ%20INDY%20EDIT%20).mp3",
-      "title": "Kiss it better X So Sick",
-      "artist": "DJ Indy Edit",
-      "bpm": 100
-    },
-    {
-      "id": "indy02",
-      "file": "DJ Indy - Track 2.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Indy%20Edits/Arash,%20Hugel,%20Topic,%20Daecolm%20-%20I%20adore%20you%20-%20(DJ%20INDY%20AMAPIANO%20REMIX%20).mp3",
-      "title": "I Adore You - (DJ INDY AMAPIANO REMIX )",
-      "artist": "DJ Indy Edit",
-      "bpm": 115
-    },
-    {
-      "id": "indy03",
-      "file": "DJ Indy - Track 3.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Indy%20Edits/Summer%20Walker%20&%20Bryson%20Tiller%20-%20Playing%20Games%20(%20Midnight%20Chimes%20EDIT%20).mp3",
-      "title": "Playing Games (DJ INDY Midnight Chimes EDIT)",
-      "artist": "DJ Indy Edit",
-      "bpm": 117
-    },
-    {
-      "id": "indy04",
-      "file": "DJ Indy - Track 4.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Indy%20Edits/Kalani%20-%20After%20Hours%20(DJ%20INDY%20AFRO%20REMIX).mp3",
-      "title": "After Hours (DJ INDY AFRO REMIX)",
-      "artist": "DJ Indy Edit",
-      "bpm": 120
-    },
-    {
-      "id": "indy05",
-      "file": "DJ Indy - Track 5.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Indy%20Edits/Drake%20Feat%20Rhianna%20-%20Take%20care%20(%20DJ%20INDY%20EDIT%20).mp3",
-      "title": "Take care ( DJ INDY 2023 VIP EDIT )",
-      "artist": "DJ Indy Edit",
-      "bpm": 122
-    },
-    {
-      "id": "indy06",
-      "file": "DJ Indy - Track 6.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Indy%20Edits/DJ%20Indy%20-%20Sorry.mp3",
-      "title": "Sorry (DJ Indy Remix)",
-      "artist": "DJ Indy Edit",
-      "bpm": 123
-    },
-    {
-      "id": "indy07",
-      "file": "DJ Indy - Track 7.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Indy%20Edits/DJ%20INIDY%20-%20Dreams%20Come%20True.mp3",
-      "title": "Dreams Come True (DJ Indy Remix)",
-      "artist": "DJ Indy Edit",
-      "bpm": 124
-    },
-    {
-      "id": "indy08",
-      "file": "DJ Indy - Track 8.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Indy%20Edits/DJ%20INDY%20-%20Cheating%20(Extended%20Edit).mp3",
-      "title": "Cheating (DJ Indy Remix)",
-      "artist": "DJ Indy",
-      "bpm": 126
-    },
-    {
-      "id": "audio01",
-      "file": "DJ Audio 1 - Track 1.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Audio1%20%20Edits/Erykah%20Badu-Window%20Seat-The%20O%20Remix(Audio1%20Edit)(Clean).mp3",
-      "title": "Window Seat - The O Remix (Audio1 Edit) (Clean)",
-      "artist": "DJ Audio 1 Edit",
-      "bpm": 91
-    },
-    {
-      "id": "audio02",
-      "file": "DJ Audio 1 - Track 2.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Audio1%20%20Edits/Jagged%20Edge%20&%20Nelly-Where%20The%20Party%20At(Audio1%20VIP%20Edit)(Acap%20In-Acap%20Out)(Clean).mp3",
-      "title": "Where The Party At (Audio1 VIP Edit) ",
-      "artist": "DJ Audio 1 Edit",
-      "bpm": 100
-    },
-    {
-      "id": "audio03",
-      "file": "DJ Audio 1 - Track 3.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Audio1%20%20Edits/Kendrick%20Lamar%20x%20DJ%20DUBL-Not%20Like%20Us(Audio1%20VIP%20Edit)(Dirty).mp3",
-      "title": "Not Like Us (Audio1 VIP Edit) (",
-      "artist": "DJ Audio 1 Edit",
-      "bpm": 101
-    },
-    {
-      "id": "audio04",
-      "file": "DJ Audio 1 - Track 4.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Audio1%20%20Edits/Chappell%20Roan%20vs%20Ying%20Yang%20Twins-Pink%20Pony%20Club(Audio1%20Blend)(Clean).mp3",
-      "title": "Pink Pony Club (Audio1 VIP Blend)",
-      "artist": "DJ Audio 1 Edit",
-      "bpm": 105
-    },
-    {
-      "id": "audio05",
-      "file": "DJ Audio 1 - Track 5.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Audio1%20%20Edits/Chris%20Lake%20&%20Ragie%20Ban-Toxic(Audio1%20Short%20Edit)(Clean).mp3",
-      "title": "Toxic (Audio1 VIP Edit)",
-      "artist": "DJ Audio 1 Edit",
-      "bpm": 130
-    },
-    {
-      "id": "audio06",
-      "file": "DJ Audio 1 - Track 6.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Audio1%20%20Edits/Central%20Cee%20&%20Lil%20Baby-BAND4BAND(SLUMBERJACK%20Remix)(Audio1%20VIP%20Edit)(Dirty).mp3",
-      "title": "BAND4BAND - SLUMBERJACK Remix (Audio1 VIP Edit) ",
-      "artist": "DJ Audio 1 Edit",
-      "bpm": 144
-    },
-    {
-      "id": "flex01",
-      "file": "DJ Flex - Track 1.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Flex%20Edits/SZA%20-%20Snooze%20(DJ%20FLEX%20EDIT).wav",
-      "title": "SZA - Snooze (DJ FLEX EDIT) ",
-      "artist": "DJ Flex Edit",
-      "bpm": 80
-    },
-    {
-      "id": "flex02",
-      "file": "DJ Flex - Track 2.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Flex%20Edits/Destiny's%20Child%20-%20Cater%202%20U%20(DJ%20FLEX%20EDIT).mp3",
-      "title": "Cater 2 U (DJ FLEX EDIT)",
-      "artist": "DJ Flex Edit",
-      "bpm": 126
-    },
-    {
-      "id": "flex03",
-      "file": "DJ Flex - Track 3.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Flex%20Edits/Craig%20David%20-%20Fill%20In%20My%20Name%20(DJ%20FLEX%20EDIT).mp3",
-      "title": "Fill In My Name (DJ FLEX EDIT)",
-      "artist": "DJ Flex Edit",
-      "bpm": 138
-    },
-    {
-      "id": "flex04",
-      "file": "DJ Flex - Track 4.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Flex%20Edits/SZA%20-%20Snooze%20(DJ%20FLEX%20EDIT).wav",
-      "title": "Un-thinkable Halo",
-      "artist": "DJ Flex Edit",
-      "bpm": 86
-    },
-    {
-      "id": "paz01",
-      "file": "DJ Paz - Track 1.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Paz%20Edits/Boo'd%20Up%20X%20Lifestyle%20(DJ%20Paz%20Mashup).mp3",
-      "title": "Boo'd Up X Lifestyle",
-      "artist": "DJ Paz Edits",
-      "bpm": 89
-    },
-    {
-      "id": "paz02",
-      "file": "DJ Paz - Track 2.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Paz%20Edits/Shabba%20Madda%20Pot%20X%20Bouff%20Daddy%20(DJ%20Paz%20Mashup%20-%20NO%20INTRO).mp3",
-      "title": "Shabba Madda Pot X Bouff Daddy",
-      "artist": "DJ Paz Edits",
-      "bpm": 94
-    },
-    {
-      "id": "paz03",
-      "file": "DJ Paz - Track 3.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Paz%20Edits/When%20I%20See%20U%20(DJ%20Paz%20'On%20The%20Hotline'%20Blend).mp3",
-      "title": "When I See U (DJ Paz 'On The Hotline' Blend)",
-      "artist": "DJ Paz Edits",
-      "bpm": 95
-    },
-    {
-      "id": "paz04",
-      "file": "DJ Paz - Track 4.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Paz%20Edits/Let%20It%20Go%20X%20Push%202%20Start%20(DJ%20Paz%20Mashup).mp3",
-      "title": "Let It Go X Push 2 Start ",
-      "artist": "DJ Pa Edits",
-      "bpm": 95
-    },
-    {
-      "id": "paz05",
-      "file": "DJ Paz - Track 5.mp3",
-      "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Paz%20Edits/Let%20It%20Go%20X%20Push%202%20Start%20(DJ%20Paz%20Mashup).mp3",
-      "title": "Let It Go X Push 2 Start",
-      "artist": "DJ Paz Edits",
-      "bpm": 127
-    }
+    "id": "indy01",
+    "file": "DJ Indy - Track 1.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Indy%20Edits/Rhianna%20-%20Kiss%20it%20better%20X%20So%20Sick%20(%20DJ%20INDY%20EDIT%20).mp3",
+    "title": "Kiss it better X So Sick",
+    "artist": "DJ Indy Edit",
+    "bpm": 100
+  },
+  {
+    "id": "indy02",
+    "file": "DJ Indy - Track 2.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Indy%20Edits/Arash,%20Hugel,%20Topic,%20Daecolm%20-%20I%20adore%20you%20-%20(DJ%20INDY%20AMAPIANO%20REMIX%20).mp3",
+    "title": "I Adore You - (DJ INDY AMAPIANO REMIX )",
+    "artist": "DJ Indy Edit",
+    "bpm": 115
+  },
+  {
+    "id": "indy03",
+    "file": "DJ Indy - Track 3.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Indy%20Edits/Summer%20Walker%20&%20Bryson%20Tiller%20-%20Playing%20Games%20(%20Midnight%20Chimes%20EDIT%20).mp3",
+    "title": "Playing Games (DJ INDY Midnight Chimes EDIT)",
+    "artist": "DJ Indy Edit",
+    "bpm": 117
+  },
+  {
+    "id": "indy04",
+    "file": "DJ Indy - Track 4.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Indy%20Edits/Kalani%20-%20After%20Hours%20(DJ%20INDY%20AFRO%20REMIX).mp3",
+    "title": "After Hours (DJ INDY AFRO REMIX)",
+    "artist": "DJ Indy Edit",
+    "bpm": 120
+  },
+  {
+    "id": "indy05",
+    "file": "DJ Indy - Track 5.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Indy%20Edits/Drake%20Feat%20Rhianna%20-%20Take%20care%20(%20DJ%20INDY%20EDIT%20).mp3",
+    "title": "Take care ( DJ INDY 2023 VIP EDIT )",
+    "artist": "DJ Indy Edit",
+    "bpm": 122
+  },
+  {
+    "id": "indy06",
+    "file": "DJ Indy - Track 6.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Indy%20Edits/DJ%20Indy%20-%20Sorry.mp3",
+    "title": "Sorry (DJ Indy Remix)",
+    "artist": "DJ Indy Edit",
+    "bpm": 123
+  },
+  {
+    "id": "indy07",
+    "file": "DJ Indy - Track 7.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Indy%20Edits/DJ%20INIDY%20-%20Dreams%20Come%20True.mp3",
+    "title": "Dreams Come True (DJ Indy Remix)",
+    "artist": "DJ Indy Edit",
+    "bpm": 124
+  },
+  {
+    "id": "indy08",
+    "file": "DJ Indy - Track 8.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Indy%20Edits/DJ%20INDY%20-%20Cheating%20(Extended%20Edit).mp3",
+    "title": "Cheating (DJ Indy Remix)",
+    "artist": "DJ Indy",
+    "bpm": 126
+  },
+  {
+    "id": "audio01",
+    "file": "DJ Audio 1 - Track 1.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Audio1%20%20Edits/Erykah%20Badu-Window%20Seat-The%20O%20Remix(Audio1%20Edit)(Clean).mp3",
+    "title": "Window Seat - The O Remix (Audio1 Edit) (Clean)",
+    "artist": "DJ Audio 1 Edit",
+    "bpm": 91
+  },
+  {
+    "id": "audio02",
+    "file": "DJ Audio 1 - Track 2.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Audio1%20%20Edits/Jagged%20Edge%20&%20Nelly-Where%20The%20Party%20At(Audio1%20VIP%20Edit)(Acap%20In-Acap%20Out)(Clean).mp3",
+    "title": "Where The Party At (Audio1 VIP Edit) ",
+    "artist": "DJ Audio 1 Edit",
+    "bpm": 100
+  },
+  {
+    "id": "audio03",
+    "file": "DJ Audio 1 - Track 3.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Audio1%20%20Edits/Kendrick%20Lamar%20x%20DJ%20DUBL-Not%20Like%20Us(Audio1%20VIP%20Edit)(Dirty).mp3",
+    "title": "Not Like Us (Audio1 VIP Edit) (",
+    "artist": "DJ Audio 1 Edit",
+    "bpm": 101
+  },
+  {
+    "id": "audio04",
+    "file": "DJ Audio 1 - Track 4.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Audio1%20%20Edits/Chappell%20Roan%20vs%20Ying%20Yang%20Twins-Pink%20Pony%20Club(Audio1%20Blend)(Clean).mp3",
+    "title": "Pink Pony Club (Audio1 VIP Blend)",
+    "artist": "DJ Audio 1 Edit",
+    "bpm": 105
+  },
+  {
+    "id": "audio05",
+    "file": "DJ Audio 1 - Track 5.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Audio1%20%20Edits/Chris%20Lake%20&%20Ragie%20Ban-Toxic(Audio1%20Short%20Edit)(Clean).mp3",
+    "title": "Toxic (Audio1 VIP Edit)",
+    "artist": "DJ Audio 1 Edit",
+    "bpm": 130
+  },
+  {
+    "id": "audio06",
+    "file": "DJ Audio 1 - Track 6.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Audio1%20%20Edits/Central%20Cee%20&%20Lil%20Baby-BAND4BAND(SLUMBERJACK%20Remix)(Audio1%20VIP%20Edit)(Dirty).mp3",
+    "title": "BAND4BAND - SLUMBERJACK Remix (Audio1 VIP Edit) ",
+    "artist": "DJ Audio 1 Edit",
+    "bpm": 144
+  },
+  {
+    "id": "flex01",
+    "file": "DJ Flex - Track 1.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Flex%20Edits/SZA%20-%20Snooze%20(DJ%20FLEX%20EDIT).wav",
+    "title": "SZA - Snooze (DJ FLEX EDIT) ",
+    "artist": "DJ Flex Edit",
+    "bpm": 80
+  },
+  {
+    "id": "flex02",
+    "file": "DJ Flex - Track 2.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Flex%20Edits/Destiny's%20Child%20-%20Cater%202%20U%20(DJ%20FLEX%20EDIT).mp3",
+    "title": "Cater 2 U (DJ FLEX EDIT)",
+    "artist": "DJ Flex Edit",
+    "bpm": 126
+  },
+  {
+    "id": "flex03",
+    "file": "DJ Flex - Track 3.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Flex%20Edits/Craig%20David%20-%20Fill%20In%20My%20Name%20(DJ%20FLEX%20EDIT).mp3",
+    "title": "Fill In My Name (DJ FLEX EDIT)",
+    "artist": "DJ Flex Edit",
+    "bpm": 138
+  },
+  {
+    "id": "flex04",
+    "file": "DJ Flex - Track 4.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Flex%20Edits/SZA%20-%20Snooze%20(DJ%20FLEX%20EDIT).wav",
+    "title": "Un-thinkable Halo",
+    "artist": "DJ Flex Edit",
+    "bpm": 86
+  },
+  {
+    "id": "paz01",
+    "file": "DJ Paz - Track 1.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Paz%20Edits/Boo'd%20Up%20X%20Lifestyle%20(DJ%20Paz%20Mashup).mp3",
+    "title": "Boo'd Up X Lifestyle",
+    "artist": "DJ Paz Edits",
+    "bpm": 89
+  },
+  {
+    "id": "paz02",
+    "file": "DJ Paz - Track 2.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Paz%20Edits/Shabba%20Madda%20Pot%20X%20Bouff%20Daddy%20(DJ%20Paz%20Mashup%20-%20NO%20INTRO).mp3",
+    "title": "Shabba Madda Pot X Bouff Daddy",
+    "artist": "DJ Paz Edits",
+    "bpm": 94
+  },
+  {
+    "id": "paz03",
+    "file": "DJ Paz - Track 3.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Paz%20Edits/When%20I%20See%20U%20(DJ%20Paz%20'On%20The%20Hotline'%20Blend).mp3",
+    "title": "When I See U (DJ Paz 'On The Hotline' Blend)",
+    "artist": "DJ Paz Edits",
+    "bpm": 95
+  },
+  {
+    "id": "paz04",
+    "file": "DJ Paz - Track 4.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Paz%20Edits/Let%20It%20Go%20X%20Push%202%20Start%20(DJ%20Paz%20Mashup).mp3",
+    "title": "Let It Go X Push 2 Start ",
+    "artist": "DJ Pa Edits",
+    "bpm": 95
+  },
+  {
+    "id": "paz05",
+    "file": "DJ Paz - Track 5.mp3",
+    "fullPath": "https://budovxjkyzfnaddxsuuc.supabase.co/storage/v1/object/public/tracks/Paz%20Edits/Let%20It%20Go%20X%20Push%202%20Start%20(DJ%20Paz%20Mashup).mp3",
+    "title": "Let It Go X Push 2 Start",
+    "artist": "DJ Paz Edits",
+    "bpm": 127
+  }
   ],
   "summary": {
     "totalTracks": 7,
