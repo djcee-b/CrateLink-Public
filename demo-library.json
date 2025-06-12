@@ -87,7 +87,8 @@
       "bitrate": 320,
       "key": "1A",
       "playcount": 0,
-      "size": 8894318
+      "size": 8894318,
+      "crateId": "2b1bc6"
     },
     {
       "id": "5e2f7e",
@@ -101,7 +102,8 @@
       "bitrate": 320,
       "key": "9A",
       "playcount": 0,
-      "size": 7672775
+      "size": 7672775,
+      "crateId": "2b1bc6"
     },
     {
       "id": "b65360",
@@ -115,7 +117,8 @@
       "bitrate": 320,
       "key": "8A",
       "playcount": 0,
-      "size": 8818055
+      "size": 8818055,
+      "crateId": "2b1bc6"
     },
     {
       "id": "ab11cd",
@@ -129,7 +132,8 @@
       "bitrate": 320,
       "key": "6A",
       "playcount": 0,
-      "size": 7854321
+      "size": 7854321,
+      "crateId": "c7f9d3"
     },
     {
       "id": "ef22gh",
@@ -143,7 +147,8 @@
       "bitrate": 320,
       "key": "7A",
       "playcount": 0,
-      "size": 7345012
+      "size": 7345012,
+      "crateId": "c7f9d3"
     },
     {
       "id": "ij33kl",
@@ -157,7 +162,8 @@
       "bitrate": 320,
       "key": "8A",
       "playcount": 0,
-      "size": 7428300
+      "size": 7428300,
+      "crateId": "c7f9d3"
     },
     {
       "id": "mn44op",
@@ -185,7 +191,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "d9e8f2"
   },
   {
     "id": "st34uv",
@@ -199,7 +206,8 @@
     "bitrate": 320,
     "key": "9B",
     "playcount": 0,
-    "size": 7991233
+    "size": 7991233,
+    "crateId": "d9e8f2"
   },
   {
     "id": "wx56yz",
@@ -213,7 +221,8 @@
     "bitrate": 320,
     "key": "11A",
     "playcount": 0,
-    "size": 8452341
+    "size": 8452341,
+    "crateId": "d9e8f2"
   },
   {
     "id": "lm78no",
@@ -227,7 +236,8 @@
     "bitrate": 320,
     "key": "8B",
     "playcount": 0,
-    "size": 7888000
+    "size": 7888000,
+    "crateId": "d9e8f2"
   },
   {
     "id": "indy01",
@@ -241,7 +251,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "indy001"
   },
   {
     "id": "indy02",
@@ -255,7 +266,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "indy001"
   },
   {
     "id": "indy03",
@@ -269,7 +281,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "indy001"
   },
   {
     "id": "indy04",
@@ -283,7 +296,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "indy001"
   },
   {
     "id": "indy05",
@@ -297,7 +311,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "indy001"
   },
   {
     "id": "indy06",
@@ -311,7 +326,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "indy001"
   },
   {
     "id": "indy07",
@@ -325,7 +341,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "indy001"
   },
   {
     "id": "indy08",
@@ -339,7 +356,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "indy001"
   },
   {
     "id": "audio01",
@@ -353,7 +371,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "audio001"
   },
   {
     "id": "audio02",
@@ -367,7 +386,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "audio001"
   },
   {
     "id": "audio03",
@@ -381,7 +401,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "audio001"
   },
   {
     "id": "audio04",
@@ -395,7 +416,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "audio001"
   },
   {
     "id": "audio05",
@@ -409,7 +431,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "audio001"
   },
   {
     "id": "audio06",
@@ -423,7 +446,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "audio001"
   },
   {
     "id": "flex01",
@@ -437,7 +461,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "flex001"
   },
   {
     "id": "flex02",
@@ -451,7 +476,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "flex001"
   },
   {
     "id": "flex03",
@@ -465,7 +491,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "flex001"
   },
   {
     "id": "flex04",
@@ -479,7 +506,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "flex001"
   },
   {
     "id": "paz01",
@@ -493,7 +521,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "paz001"
   },
   {
     "id": "paz02",
@@ -507,7 +536,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "paz001"
   },
   {
     "id": "paz03",
@@ -521,7 +551,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "paz001"
   },
   {
     "id": "paz04",
@@ -535,7 +566,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "paz001"
   },
   {
     "id": "paz05",
@@ -549,7 +581,8 @@
     "bitrate": 320,
     "key": "10A",
     "playcount": 0,
-    "size": 8123400
+    "size": 8123400,
+    "crateId": "paz001"
   }
   ],
   "summary": {
